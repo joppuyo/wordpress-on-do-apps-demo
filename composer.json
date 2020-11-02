@@ -38,7 +38,9 @@
     "roots/bedrock-autoloader": "^1.0",
     "roots/wordpress": "5.5.1",
     "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/amazon-s3-and-cloudfront": "^2.4",
+    "ext-imagick": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.6",
