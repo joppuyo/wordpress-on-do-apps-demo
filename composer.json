@@ -40,7 +40,9 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/amazon-s3-and-cloudfront": "^2.4",
-    "ext-imagick": "*"
+    "ext-imagick": "*",
+    "ext-mbstring": "*",
+    "ext-exif": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.6",
